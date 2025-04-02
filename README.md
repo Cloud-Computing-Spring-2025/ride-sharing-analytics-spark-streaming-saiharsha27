@@ -1,10 +1,10 @@
 # Real-Time Ride-Sharing Analytics with Apache Spark
 
 ## Overview
-This project demonstrates real-time data processing and analytics for a ride-sharing platform using Apache Spark Structured Streaming. The workflow includes ingesting live ride data, performing aggregations, and analyzing trends over time, with results stored in CSV format.
+This Hands-on demonstrates real-time data processing and analytics for a ride-sharing platform using Apache Spark Structured Streaming. The workflow includes ingesting live ride data, performing aggregations, and analyzing trends over time, with results stored in CSV format.
 
 ## Tasks
-The project is divided into three main tasks:
+The Hands-on is divided into three main tasks:
 
 ### Task 1: Ingest and Parse Real-Time Ride Data
 - Ingest streaming data from a socket source (e.g., `localhost:9999`).
@@ -58,11 +58,10 @@ The project is divided into three main tasks:
 - If CSV files are not generated, verify that data is being streamed correctly.
 
 ## Learning Outcomes
-By completing this project, you will:
+By completing this Hands-on, you will:
 - Gain hands-on experience with Apache Spark Structured Streaming.
 - Learn how to process, aggregate, and analyze streaming data in real-time.
 - Understand time-windowed aggregations for trend analysis.
 
 ---
-This project is a practical implementation of real-time data streaming and analytics using Apache Spark, useful for real-world applications in ride-sharing and similar domains.
 
